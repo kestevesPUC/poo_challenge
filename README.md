@@ -1,4 +1,5 @@
-- Parte 1:
+<h1 class="text-center">Plataforma Streaming</h1>
+<h2>- Parte 1:</h2>
     Dentre as formas de entretenimento contemporâneas, os serviços de streaming de conteúdo se multiplicaram e
     tomaram conta de boa parte do mercado nos últimos anos. Isto pode ser percebido em números relatados por pesquisas
     recentes.
@@ -44,7 +45,7 @@
     2 Disponível em https://www.forbes.com/sites/marisadellatto/2023/02/16/paramount-gains-subscribers-as-disney-reports-losseswhere-
     all-the-major-streaming-services-stand/?sh=14df9763c4ac
 
-- Parte 2:
+<h2>- Parte 2:</h2>
     Após a validação do diagrama inicial e da implementação das classes, é necessário um módulo que leia arquivos com
     dados em formato texto (csv) e crie os objetos correspondentes para utilização no sistema. Os arquivos são 3, cada um
     sendo formatado linha a linha como indicado:
@@ -77,7 +78,7 @@
     o Produção e acompanhamento individual;
     o Cumprimento dos requisitos e prazos do projeto.
 
-- Parte 3:
+<h2>- Parte 3:</h2>
     Com os testes iniciais indicando um bom funcionamento do sistema “Minhas Séries”, é natural que as próximas fases
     do projeto comecem a ser planejas. O passo seguinte é simples, porém muito importante: o serviço de streaming passará
     a incluir em seu catálogo filmes de longa-metragem. Inicialmente, a única diferença entre séries e filmes é que as
@@ -115,7 +116,7 @@
     o Produção e acompanhamento individual;
     o Cumprimento dos requisitos e prazos do projeto.
 
-- Parte 4
+<h2>- Parte 4</h2>
 
     O projeto originalmente chamado de “Minhas Séries” já acumula alguns meses de desenvolvimento e, assim, deve
     apresentar características que realizem ações já pedidas pelo cliente. Relembrando o backlog, temos:
@@ -154,7 +155,7 @@
     o Produção e acompanhamento individual;
     o Cumprimento dos requisitos e prazos do projeto.
 
-    - Parte 5:
+<h2>- Parte 5:</h2>
         • Implementação das classes Cliente, Serie e PlataformaStreaming como originalmente planejadas;
         • Atualização do diagrama original para contemplar requisito de carga de dados;
         • Implementação dos métodos para carga de dados de séries, clientes e audiência em funcionamento;
