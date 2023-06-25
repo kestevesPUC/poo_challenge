@@ -1,4 +1,4 @@
-<h1 class="text-center">Plataforma Streaming</h1>
+<h1 align="center">>Plataforma Streaming</h1>
 <h2>- Parte 1:</h2>
     Dentre as formas de entretenimento contemporâneas, os serviços de streaming de conteúdo se multiplicaram e
     tomaram conta de boa parte do mercado nos últimos anos. Isto pode ser percebido em números relatados por pesquisas
